@@ -52,4 +52,5 @@ This project will help you master the art of database design. Your group will co
 ---
 
 ## ERD Diagram
-To be added. Design the ERD using a tool like Lucidchart or dbdiagram.io, then upload it to this repository as `docs/ERD.png` or similar.
+Designed the ERD using bdiagram.io..
+![Entity Relationship Diagram](docs/ERD.png)
